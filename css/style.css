@@ -1,0 +1,36 @@
+body{
+    background: rgb(186, 186, 240);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+h1 {
+    color: rgb(74, 74, 238);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    color: rgb(73, 141, 243);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-size: 18px;
+}
+
+img{
+    margin-bottom: 20px;
+}
+
+a{
+    font-size: 18px;
+}
+
+footer{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
